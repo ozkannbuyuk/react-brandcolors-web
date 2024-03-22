@@ -2,6 +2,10 @@
    React - BrandColors Web
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-brandcolors-web/assets/111967202/59b5143f-8105-4d1f-adc7-40abd938f87d" width="700" />
 </p>
